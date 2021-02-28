@@ -1,0 +1,395 @@
+body {
+  margin: 0;
+}
+.contaniner {
+  opacity: 0.9;
+}
+
+.img1 {
+  box-shadow: 1px 0px 7px 7px rgba(61, 43, 43, 0.753);
+  margin-top: 1rem;
+  margin-left: 6rem;
+  border-radius: 46px;
+}
+header h2 {
+  color: #fff;
+  margin-left: 6rem;
+}
+nav ul {
+  list-style: none;
+}
+ul li a {
+  display: inline-block;
+  text-decoration: none;
+  padding: 1rem;
+  color: rgba(255, 255, 255, 0.788);
+}
+ul li i {
+  color: #fff;
+}
+ul li:hover a,
+ul li:hover i {
+  color: red;
+}
+
+.home {
+  font-weight: bold;
+}
+header {
+  background-color: black;
+  width: 18rem;
+  position: fixed;
+  height: 40rem;
+}
+.right {
+  margin-left: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.788);
+}
+.right .iport span {
+  font-weight: bolder;
+  color: #fff;
+  text-indent: 1rem;
+}
+.right span {
+  color: rgb(0, 140, 255);
+}
+.smile .quae span {
+  color: rgb(0, 140, 255);
+}
+.new {
+  width: 6%;
+  margin-left: 3rem;
+  border: 2px solid rgb(0, 140, 255);
+}
+section {
+  margin-left: 3rem;
+  padding-top: 11rem;
+  padding-left: 31rem;
+  margin-bottom: 3rem;
+  background-image: url(./hero-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 35rem;
+  width: 50.3rem;
+}
+.flex1 {
+  display: flex;
+  justify-content: space-between;
+}
+.head {
+  margin-left: 3rem;
+}
+/* .head::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  height: 35rem;
+  width: 50.3rem;
+  color: #000;
+} */
+.head h1 {
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: -18px;
+}
+.head p {
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.content1 {
+  margin-left: 22rem;
+}
+.p1 {
+  width: 92%;
+}
+.new2 {
+  width: 4%;
+  border: 2px solid rgb(0, 140, 255);
+  margin-left: 0;
+}
+.progress {
+  background-color: rgba(0, 0, 0, 0.082);
+  height: 0.8rem;
+  width: 25rem;
+}
+.progress-bar {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 140, 255);
+}
+.progress-bar2 {
+  width: 80%;
+  height: 100%;
+  background-color: rgb(0, 140, 255);
+}
+.progress-bar3 {
+  width: 60%;
+  height: 100%;
+  background-color: rgb(0, 140, 255);
+}
+.progress-bar4 {
+  width: 60%;
+  height: 100%;
+  background-color: rgb(0, 140, 255);
+}
+.progress-bar5 {
+  width: 70%;
+  height: 100%;
+  background-color: rgb(0, 140, 255);
+}
+.progress-bar6 {
+  width: 50%;
+  height: 100%;
+  background-color: rgb(0, 140, 255);
+}
+.color {
+  color: rgb(132, 146, 158);
+  width: 50%;
+}
+.img2 {
+  float: left;
+  margin-right: 2rem;
+}
+.prof {
+  display: flex;
+  margin-left: 2rem;
+}
+.fa-angle-right {
+  color: rebeccapurple;
+}
+.prof1 h3 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.prof1 p {
+  margin-left: 7rem;
+  margin-top: -1rem;
+  margin-bottom: 0;
+}
+.prof2 {
+  margin-bottom: 0;
+  margin-left: 1rem;
+}
+.prof2 p {
+  margin-left: 7rem;
+  margin-top: -1rem;
+  margin-bottom: 0;
+}
+.prof2 h3 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.content2 {
+  margin-top: 7rem;
+}
+.content2 p {
+  width: 86%;
+}
+.smile {
+  display: flex;
+  margin-left: 5rem;
+}
+.pjt {
+  margin-top: 3rem;
+  margin-left: -3rem;
+}
+.smile span {
+  color: rgb(0, 140, 255);
+}
+.quae {
+  margin-top: 4rem;
+  margin-left: -3rem;
+  margin-right: 4rem;
+  max-width: 19%;
+}
+.quae1 {
+  margin-top: 4rem;
+  margin-left: -3rem;
+  margin-right: 12rem;
+}
+.quae2 {
+  margin-top: 4rem;
+  margin-left: -4rem;
+  margin-right: 3rem;
+  max-width: 19%;
+}
+.quae3 {
+  margin-top: 4rem;
+  margin-left: -2rem;
+  margin-right: 4rem;
+}
+.resume {
+  margin-top: 7rem;
+}
+.p6 {
+  width: 87%;
+}
+.sumal {
+  margin-left: 1rem;
+}
+.content3 {
+  margin-top: 2rem;
+  display: flex;
+}
+.p7 {
+  margin-left: 1rem;
+  width: 67%;
+}
+.port {
+  line-height: 2rem;
+  margin-left: 1rem;
+}
+
+.year {
+  margin-left: 1rem;
+  background-color: rgba(95, 158, 160, 0.733);
+  display: inline-block;
+  padding: 4px;
+}
+Summary {
+  padding-right: 1rem;
+}
+.edu-p {
+  width: 89%;
+}
+.bach-p {
+  width: 89%;
+}
+.york {
+  line-height: 1.5rem;
+  margin-left: 10px;
+}
+.p8 {
+  width: 87%;
+}
+.apps {
+  margin-left: 22rem;
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+}
+.secled {
+  font-weight: bold;
+}
+.apps a {
+  text-decoration: none;
+  padding-right: 1rem;
+}
+.images img {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+.Service {
+  margin-top: 3rem;
+}
+.p10 {
+  width: 87%;
+}
+.ipsum {
+  width: 82%;
+}
+.ipsum1 {
+  display: flex;
+  margin-left: 4rem;
+}
+.jena-p {
+  width: 91%;
+  background-color: #fff;
+}
+.matt-p {
+  width: 88%;
+  background-color: #fff;
+}
+.john-p {
+  width: 89%;
+  background-color: #fff;
+}
+.test {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 7rem;
+}
+.mini {
+  border-radius: 56px;
+}
+.test p {
+  margin-top: -1rem;
+}
+.paraex {
+  display: flex;
+  margin-left: 4rem;
+  padding-right: 2rem;
+}
+.lang {
+  display: flex;
+}
+.frend {
+  margin-right: 6rem;
+}
+.frend h6 {
+  display: inline;
+}
+.frend .per1 {
+  margin-left: 22rem;
+}
+.per2 {
+  margin-left: 23rem;
+}
+.per3 {
+  margin-left: 20rem;
+}
+.per4 {
+  margin-left: 25rem;
+}
+.per5 {
+  margin-left: 20.5rem;
+}
+.per6 {
+  margin-left: 22.2rem;
+}
+.frend2 h6 {
+  display: inline;
+}
+.skills {
+  background-color: rgba(0, 140, 255, 0.76);
+}
+
+.locat {
+  margin-right: 6rem;
+}
+.Contact {
+  margin-top: 5rem;
+}
+.end {
+  display: flex;
+  margin-left: 3rem;
+}
+.mail {
+  font-size: 12px;
+}
+.name {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.name input {
+  width: 18rem;
+  height: 2rem;
+  margin-right: 1rem;
+}
+.sub input {
+  width: 37.5rem;
+  height: 2rem;
+}
+.btn {
+  background-color: rgba(0, 140, 255, 0.562);
+  padding: 0.5rem 1rem;
+  margin-left: 18rem;
+  border: 0;
+  outline: none;
+}
